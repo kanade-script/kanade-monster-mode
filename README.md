@@ -1,1 +1,0 @@
-# kanade-monster-mode
